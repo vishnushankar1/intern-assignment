@@ -31,6 +31,12 @@ You’re free to define the use case — originality, practicality, and effectiv
 
 ---
 
+## Facing Issue ❓
+
+If you encounter any issues while downloading or using the SDK, please raise an issue in the respective repository - Python SDK or JavaScript SDK
+
+---
+
 ## ✅ DOs and DON’Ts
 
 ### ✅ DO:
